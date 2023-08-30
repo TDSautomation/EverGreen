@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC005--Empty Login Fields</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f3cbc10f-a987-4fcc-82cb-2d39e010c0bf</testCaseGuid>
+</TestCaseEntity>
